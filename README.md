@@ -38,6 +38,23 @@ I enjoy turning ideas into real products and have worked with modern technologie
 
 # 🚀 Featured Projects
 
+## 🌸 Blooms Egypt
+
+Worked on the development of a digital ecosystem for **Blooms Egypt**.
+
+### 💻 Contributions
+
+- 🌐 Public-facing website development
+- 📊 Management dashboard
+- 📱 Mobile application contributions
+- 🗄️ Database integration
+- 🚀 Deployment and production improvements
+
+  🔗 **Live Website:** https://bloomsegypt.com/
+
+---
+
+
 ## 📚 Maths Edexcel Learning Platform
 
 A full-stack educational platform developed for an **Edexcel Mathematics teacher and students**.
@@ -59,7 +76,7 @@ A full-stack educational platform developed for an **Edexcel Mathematics teacher
 
 `Next.js` • `React` • `TypeScript` • `Tailwind CSS` • `Firebase` • `Firestore` • `Vercel`
 
-🔗 **Live Website:** https://maths-edexcel-website.vercel.app
+🔗 **Live Website:** https://www.omareladawymathigcse.com/
 
 ---
 
@@ -83,9 +100,9 @@ A computer vision application designed to analyze and compare swimming start tec
 
 ---
 
-## 📱 Cyber Café Booking Application
+## 📱  Booking Application
 
-A mobile application designed for booking and managing cyber café reservations.
+A mobile application designed for booking and managing reservations.
 
 ### ✨ Features
 
@@ -99,20 +116,6 @@ A mobile application designed for booking and managing cyber café reservations.
 ### 🛠️ Built With
 
 `React Native` • `Expo` • `Firebase` • `Firestore`
-
----
-
-## 🌸 Blooms Egypt
-
-Worked on the development of a digital ecosystem for **Blooms Egypt**.
-
-### 💻 Contributions
-
-- 🌐 Public-facing website development
-- 📊 Management dashboard
-- 📱 Mobile application contributions
-- 🗄️ Database integration
-- 🚀 Deployment and production improvements
 
 ---
 
